@@ -1,7 +1,7 @@
 # NetBox scripts
 
 A few small scripts I use to save time in NetBox. Nothing fancy, just things that were too boring to do by hand.
-Some vibecoded.
+Some vibe coded.
 
 - **NETBOX SCRIPT add device description to custom field IPAM**: copies a device's description onto its IP addresses.
 - **NETBOX update front and rear port labels**: sets port labels in bulk from a CSV.
