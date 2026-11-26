@@ -7,5 +7,7 @@ Some scripts are vibe coded.
 - **NETBOX SCRIPT add device description to custom field IPAM**: copies a device's description onto its IP addresses.
 - **NETBOX update front and rear port labels**: sets port labels in bulk from a CSV.
 - **NETBOX update vlan interface from arista switches**: imports interfaces and IPs exported from Arista CVP.
+- **NETBOX update switches infos**: Compares CloudVision interfaces / routed ports / Port Channels CSV exports with a switch's interfaces in NetBox
+
 
 Each folder has its own README with the details.
